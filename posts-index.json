@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "Erro na Geração de Conteúdo",
+      "date": "14/10/2025",
+      "timestamp": "2025-10-14T23:12:13.294040",
+      "category": "Erro",
+      "excerpt": "Houve um problema ao gerar o conteúdo. Tente novamente.",
+      "filename": "erro-na-geracao-de-conteudo-20251014231213.html",
+      "image": "assets/images/post_20251014231213.png"
+    },
+    {
+      "title": "Erro na Geração de Conteúdo",
+      "date": "14/10/2025",
+      "timestamp": "2025-10-14T23:12:31.826305",
+      "category": "Erro",
+      "excerpt": "Houve um problema ao gerar o conteúdo. Tente novamente.",
+      "filename": "erro-na-geracao-de-conteudo-20251014231231.html",
+      "image": "assets/images/post_20251014231231.png"
+    },
+    {
+      "title": "Consumidor Consciente: Como a Sustentabilidade Redefine o Mercado de Joias e Semijoias",
+      "date": "14/10/2025",
+      "timestamp": "2025-10-14T23:12:51.567529",
+      "category": "Tendências de Mercado",
+      "excerpt": "A crescente demanda por produtos sustentáveis e eticamente produzidos está transformando o cenário do varejo, e o setor de joias e semijoias não é exceção. Atacadistas e comerciantes que desejam se manter relevantes e competitivos precisam estar atentos a essa nova onda de consumidores conscientes, que buscam não apenas beleza e qualidade, mas também transparência e responsabilidade socioambiental em suas compras.",
+      "filename": "consumidor-consciente-como-a-sustentabilidade-redefine-o-mercado-de-joias-e-semijoias-20251014231251.html",
+      "image": "assets/images/post_20251014231251.png"
+    }
+  ],
+  "last_updated": "2025-10-14T23:13:01.971001"
+}

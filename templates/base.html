@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} - ZIARA TESTE</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo-area">
+                <h1 class="logo">ZIARA TESTE</h1>
+                <p class="subtitle">(Sousa, R.G.M)</p>
+            </div>
+            <p class="tagline">Notícias e Atualizações para Atacadistas e Comerciantes de Joias</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <a href="/index.html" class="back-link">← Voltar para todas as publicações</a>
+        <article class="post-detail">
+            <div class="post-header">
+                <h1 class="post-title">{{ title }}</h1>
+                <div class="post-meta">
+                    <span class="post-date">📅 {{ date }}</span>
+                    <span class="post-category">{{ category }}</span>
+                </div>
+            </div>
+            {% if image %}
+            <img src="../{{ image }}" alt="{{ title }}" class="post-image">
+            {% endif %}
+            <div class="post-body">
+                <p class="lead">{{ lead }}</p>
+                {{ body | safe }}
+            </div>
+        </article>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 ZIARA TESTE (Sousa, R.G.M) - Todos os direitos reservados</p>
+            <p class="footer-note">Blog autônomo com publicações automáticas diárias</p>
+        </div>
+    </footer>
+</body>
+</html>
+
