@@ -1,24 +1,6 @@
 {
   "posts": [
     {
-      "title": "Erro na Geração de Conteúdo",
-      "date": "14/10/2025",
-      "timestamp": "2025-10-14T23:12:13.294040",
-      "category": "Erro",
-      "excerpt": "Houve um problema ao gerar o conteúdo. Tente novamente.",
-      "filename": "erro-na-geracao-de-conteudo-20251014231213.html",
-      "image": "assets/images/post_20251014231213.png"
-    },
-    {
-      "title": "Erro na Geração de Conteúdo",
-      "date": "14/10/2025",
-      "timestamp": "2025-10-14T23:12:31.826305",
-      "category": "Erro",
-      "excerpt": "Houve um problema ao gerar o conteúdo. Tente novamente.",
-      "filename": "erro-na-geracao-de-conteudo-20251014231231.html",
-      "image": "assets/images/post_20251014231231.png"
-    },
-    {
       "title": "Consumidor Consciente: Como a Sustentabilidade Redefine o Mercado de Joias e Semijoias",
       "date": "14/10/2025",
       "timestamp": "2025-10-14T23:12:51.567529",
@@ -28,5 +10,6 @@
       "image": "assets/images/post_20251014231251.png"
     }
   ],
-  "last_updated": "2025-10-14T23:13:01.971001"
+  "last_updated": "2025-10-15T00:00:00.000000"
 }
+
