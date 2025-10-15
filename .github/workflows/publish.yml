@@ -22,7 +22,7 @@ jobs:
 
     - name: Instalar Dependências
       run: |
-        pip install python-slugify Jinja2 Pillow openai
+        pip install python-slugify Jinja2 Pillow openai matplotlib pandas
         sudo apt-get update
         sudo apt-get install -y fonts-dejavu-core # Para a fonte da imagem
 
@@ -43,6 +43,6 @@ jobs:
         git add assets/images/
         git add assets/css/style.css
         git add posts-index.json
-        git commit -m "feat: Novo post gerado automaticamente"
+        git commit -m "feat: Novo post gerado automaticamente com melhorias visuais e de conteúdo"
         git push
 
